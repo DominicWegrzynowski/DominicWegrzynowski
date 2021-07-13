@@ -1,0 +1,3 @@
+- Hi, I’m @DominicWegrzynowski
+- I’m interested in 
+- I’m currently learning .NET Core web development 
