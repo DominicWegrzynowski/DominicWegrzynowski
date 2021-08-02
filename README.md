@@ -1,2 +1,2 @@
-- Hi, I’m @DominicWegrzynowski
+- Hi, I’m Dominic
 - I’m currently learning .NET Core web development 
