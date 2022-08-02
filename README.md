@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dominic Wegrzynowski</h1>
 <h3 align="center">I am a Fullstack .NET Developer</h3>
 
-<p>
-- 🌱 The project which best represents my skillset is <a href="bugtrackerdw.herokuapp.com" target="_blank" rel="noreferrer">bugtrackerdw.herokuapp.com</a>
 
-- 👨‍💻 View my work at <a href="dominicwegrzynowski.dev" target="_blank" rel="noreferrer">dominicwegrzynowski.dev</a>
+- 🌱 The project which best represents my skillset is bugtrackerdw.herokuapp.com
+
+- 👨‍💻 View my work at dominicwegrzynowski.dev
 
 - 📫Reach me on **dominicwegrzynowski@gmail.com**
-</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dev_dominicweg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khaled_nadam" height="30" width="40" /></a>
