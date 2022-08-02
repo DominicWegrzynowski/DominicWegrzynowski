@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dominic Wegrzynowski</h1>
 <h3 align="center">I am a Fullstack .NET Developer</h3>
 
-- 🌱 The project which best represents my skillset is <a href="https://bugtrackerdw.herokuapp.com" target="_blank" rel="noreferrer">bugtrackerdw.herokuapp.com/</a>
+- 🌱 The project which best represents my skillset is <a href="https://bugtrackerdw.herokuapp.com" target="_blank" rel="noreferrer">bugtrackerdw.herokuapp.com</a>
 
 - 👨‍💻 View my work at <a href="https://dominicwegrzynowski.dev" target="_blank" rel="noreferrer">dominicwegrzynowski.dev</a>
 
