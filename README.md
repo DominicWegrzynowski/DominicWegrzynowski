@@ -2,9 +2,9 @@
 <h3 align="center">I am a Fullstack .NET Developer</h3>
 
 
-- 🌱 The project which best represents my skillset is bugtrackerdw.herokuapp.com
+- 🌱 The project which best represents my skillset is [BugTracker](bugtrackerdw.herokuapp.com)
 
-- 👨‍💻 View my work at dominicwegrzynowski.dev
+- 👨‍💻 View my work [dominicwegrzynowski.dev](dominicwegrzynowski.dev)
 
 - 📫Reach me on **dominicwegrzynowski@gmail.com**
 
